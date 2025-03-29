@@ -11,8 +11,9 @@ passive buzzer
 10k ohm resistor
 
 Wiring
+```
 ![alt text](https://github.com/Netrecov/ArduinoNano/blob/main/wiring.png?raw=true)
-
+```
 
 Original code from but modified for my hardware, and code cleaned.
 https://www.instructables.com/Arduino-Based-Breakout-Game/
