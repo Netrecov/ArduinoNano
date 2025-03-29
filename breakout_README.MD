@@ -9,6 +9,8 @@ red led
 220 ohm resistor x 3
 passive buzzer
 10k ohm resistor
+```
+```
 
 Wiring
 ```
