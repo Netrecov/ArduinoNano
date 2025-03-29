@@ -1,4 +1,4 @@
-'''
+```
 Parts
 Arduino Nano
 SSD1306 OLED -  http://lcdwiki.com/0.96inch_OLED_Module_MC096VX
@@ -16,4 +16,4 @@ Wiring
 
 Original code from but modified for my hardware, and code cleaned.
 https://www.instructables.com/Arduino-Based-Breakout-Game/
-'''
+```
