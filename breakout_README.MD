@@ -11,7 +11,6 @@ passive buzzer
 10k ohm resistor
 ```
 ```
-
 Wiring
 ```
 ![alt text](https://github.com/Netrecov/ArduinoNano/blob/main/wiring.png?raw=true)
